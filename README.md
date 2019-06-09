@@ -9,6 +9,8 @@ Stainless Shafts | 2 | [Monotaro](https://www.monotaro.com/p/3296/5396/)
 Airtight Box | 1 | [Monotaro](https://www.monotaro.com/p/3322/7031)
 PTFE Tube | 1 | 
 Silica Gel | 1 | 
+M4 Nuts | 4 | [Monotaro](https://www.monotaro.com/p/0552/8713/)
+M4x20 | 4 | [Monotaro](https://www.monotaro.com/p/2901/7827/)
 Side Part | 2 |
 Bottom Part | 1 |
 
