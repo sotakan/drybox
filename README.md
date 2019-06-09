@@ -9,5 +9,7 @@ Stainless Shafts | 2 | [Monotaro](https://www.monotaro.com/p/3296/5396/)
 Airtight Box | 1 | [Monotaro](https://www.monotaro.com/p/3322/7031)
 PTFE Tube | 1 | 
 Silica Gel | 1 | 
+Side Part | 2 |
+Bottom Part | 1 |
 
 - Filament must be PLA or any other low-shrinkage filament because the bearing is designed to be a snug fit
